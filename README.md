@@ -1,1 +1,1 @@
-# Accenture
+This reprository contains the Solutions of Accenture On Boarding 2021 Questions. It contains various sunjects which is required to learn and complete in 45 days of On Boarding Program. I tried my Best that I can provide correct solution of every question. But if there is anything, I am open to feedback.
